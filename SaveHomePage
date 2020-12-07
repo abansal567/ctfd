@@ -1,0 +1,180 @@
+#With Morgan logo
+
+
+<div id="landing_wrapper">
+    <header>
+        <img src="/files/07a3870f24b9b68f3f27698ea40c3356/logo_morgan.png" alt="logo morgan"/>
+    </header>
+    <main>
+        <img src="/files/b2cd4bb31463716b8b0076dd616edba3/esp_ctf.png" alt="logo esp">
+        <a href ="register" class="button"> JOIN NOW! </a>
+    </main>
+    <nav>
+        <ul>
+            <li><a href="scoreboard"> SCOREBOARD </a></li>
+            <li><a href="challenges"> CHALLENGES </a></li>
+            <li><a href="users"> USERS </a></li>
+        </ul>
+    </nav>
+</div>
+
+
+<style type="text/css">
+body { 
+    background: url("/files/97c9c3d3e7e525539d7f3dc370038bfd/background.png") no-repeat center fixed;
+    background-size: cover;
+}
+
+#landing_wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    height: calc(100vh - 120px);
+    position: relative;
+}
+
+#landing_wrapper header{
+    padding: 40px 0px 5px 0px;
+    border-bottom: 2px solid #fff;
+    width: 30vw;
+    text-align: center;
+}
+
+#landing_wrapper header img{
+    width: 50%;
+}
+
+#landing_wrapper main{
+    text-align: center;
+}
+
+#landing_wrapper main img{
+    display: block;
+    width: 30vw;
+    margin: auto;
+}
+
+#landing_wrapper main .button{
+    font-weight: bold;
+    padding:20px 40px; 
+    border-radius: 10px; 
+    background: #fff;
+    text-decoration: none;
+    color: #0c187D;
+    font-weight: bold;
+    font-size: large;
+    display: inline-block;
+    margin-top: 80px;
+}
+
+#landing_wrapper nav{
+    padding: 5px 0px 10px 0px;
+    border-top: 2px solid #fff;
+    width: 30vw;
+}
+
+#landing_wrapper nav ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+#landing_wrapper nav li{
+    display: inline-block;
+    padding: 0px 10px;
+}
+#landing_wrapper nav li a{
+    text-decoration:none;
+    color:#FFF;
+    font-size: x-large;
+    font-weight: bold;
+}
+</style>
+
+#Without Morgan logo
+
+<div id="landing_wrapper">
+    <header>
+    </header>
+    <main>
+        <img src="/files/b2cd4bb31463716b8b0076dd616edba3/esp_ctf.png" alt="logo esp">
+        <a href ="register" class="button"> JOIN NOW! </a>
+    </main>
+    <nav>
+        <ul>
+            <li><a href="scoreboard"> SCOREBOARD </a></li>
+            <li><a href="challenges"> CHALLENGES </a></li>
+            <li><a href="users"> USERS </a></li>
+        </ul>
+    </nav>
+</div>
+
+
+<style type="text/css">
+body { 
+    background: url("/files/97c9c3d3e7e525539d7f3dc370038bfd/background.png") no-repeat center fixed;
+    background-size: cover;
+}
+
+#landing_wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    height: calc(100vh - 120px);
+    position: relative;
+}
+
+#landing_wrapper header img{
+    width: 50%;
+}
+
+#landing_wrapper main{
+    text-align: center;
+}
+
+#landing_wrapper main img{
+    display: block;
+    width: 30vw;
+    margin: auto;
+}
+
+#landing_wrapper main .button{
+    font-weight: bold;
+    padding:20px 40px; 
+    border-radius: 10px; 
+    background: #fff;
+    text-decoration: none;
+    color: #0c187D;
+    font-weight: bold;
+    font-size: large;
+    display: inline-block;
+    margin-top: 80px;
+}
+
+#landing_wrapper nav{
+    padding: 5px 0px 10px 0px;
+    border-top: 2px solid #fff;
+    width: 30vw;
+}
+
+#landing_wrapper nav ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+#landing_wrapper nav li{
+    display: inline-block;
+    padding: 0px 10px;
+}
+#landing_wrapper nav li a{
+    text-decoration:none;
+    color:#FFF;
+    font-size: x-large;
+    font-weight: bold;
+}
+</style>
