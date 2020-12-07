@@ -8,3 +8,5 @@ cd /var/tmp/ctf
 
 # Todo
 * Manage docker as non-root user
+
+Wrote by: Eleonore Carpentier
